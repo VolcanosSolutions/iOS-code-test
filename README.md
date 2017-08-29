@@ -56,5 +56,6 @@ any extra notes associated.
 # ADDENDUM
 
 You are free to use any libraries you wish.
+You are allowed to use obj-c, but here at Volcanos we try to use the newest technologies so the latest version of Swift is highly encouraged.
 Try not to get too hungry while developing the app and accidentally eat your
 phone.
